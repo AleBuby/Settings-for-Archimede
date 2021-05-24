@@ -1,0 +1,23 @@
+{
+
+	"users": {"admins": "AleBuby#7035",
+			  "ops": "svmq#8927 Ram#8796"},
+			  
+	"playlists": {"pagurini": "https://open.spotify.com/playlist/4riyuZ3edOOjItG8FC69WS?si=bc4013fa12d34c52",
+				  "top": "https://open.spotify.com/playlist/5f4xR3Kp2zvg7V9JGfZ0sW?si=d8190cd1daa14c23",
+				  "madonnalercia": "https://open.spotify.com/playlist/1B9ZsW5aiov9nSl5c1gFGW?si=S5DZiPtmSRCFS1djnewe3g",
+				  "chill": "https://open.spotify.com/playlist/049o5lcg7uCq7fzyKY0Ya1?si=0f662acf3ce341e7",
+				  "diocan": "https://open.spotify.com/playlist/5wGiu3StDmOY0gKZVNPMgb?si=-GTj_RxUT6ikECrxqOqCgQ",
+				  "sad": "https://open.spotify.com/playlist/0pGlbtatqg1NhHp9cYyVGd?si=7fea065c99cd4fa4"},
+				  
+	"channels": {"zonarossa":    748306857369796632,
+				 "zonagialla":   748316471532322886,
+				 "stanzaverde":  815933021911908372,
+				 "stanzablu":    815706844491284490,
+				 "stanzaviola":  815939237929156648,
+				 "afk":          770312713623568437,
+				 "otaku":        806262326558588968,
+				 "ebrei":        806259196374679612,
+				 "froci":        806259176552398848}
+
+}
