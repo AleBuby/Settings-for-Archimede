@@ -1,7 +1,7 @@
 {
 
-	"users": {"admins": "AleBuby#7035",
-			  "ops": "svmq#8927 Ram#8796"},
+	"users": {"admins": ["AleBuby#7035"],
+			  "ops": ["svmq#8927", "Ram#8796"]},
 			  
 	"playlists": {"pagurini": "https://open.spotify.com/playlist/4riyuZ3edOOjItG8FC69WS?si=bc4013fa12d34c52",
 				  "top": "https://open.spotify.com/playlist/5f4xR3Kp2zvg7V9JGfZ0sW?si=d8190cd1daa14c23",
